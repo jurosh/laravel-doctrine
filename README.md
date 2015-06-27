@@ -4,7 +4,7 @@
 [![License](https://poser.pugx.org/mitchellvanw/laravel-doctrine/license.png)](https://packagist.org/packages/mitchellvanw/laravel-doctrine)
 [![Total Downloads](https://poser.pugx.org/mitchellvanw/laravel-doctrine/downloads.png)](https://packagist.org/packages/mitchellvanw/laravel-doctrine)
 
-A Doctrine 2 implementation that melts with Laravel 4.
+A Doctrine 2 implementation that melts with Laravel 5 (use: "jurosh/laravel-doctrine-forked": "dev-l5").
 
 ## Documentation
 
@@ -41,7 +41,7 @@ Begin by installing the package through Composer. Edit your project's `composer.
 
 ```php
 "require": {
-    "mitchellvanw/laravel-doctrine": "0.5.*"
+    "jurosh/laravel-doctrine-forked": "dev-l5"
 }
 ```
 
